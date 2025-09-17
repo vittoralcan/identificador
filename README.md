@@ -1,0 +1,1 @@
+Esta script foi criado para solucionar uma questão no trabalho de minha esposa. Ela precisava conferir PDFs com grandes volumes para identificar quais páginas tinham OCR feita e quais não tinham. O script de forma simplificada, utiliza da biblioteca PyMuPDF para fazer a leitura dos arquivos e gerar um pequeno relatório indicando qual página está com erro, com precisão.
