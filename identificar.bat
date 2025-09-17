@@ -1,0 +1,2 @@
+python identificador.py
+pause
